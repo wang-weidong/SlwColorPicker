@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<HEAD>
+<meta charset="utf-8">
+<script type="text/javascript" src="jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="../colorpicker.js"></script>
+<link href="../style/colorpicker.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#logDate').colorPicker();
+	$('#logDate1').colorPicker({color:'#ff0000'});
+	$('#logDate2').colorPicker();
+	$('#logDate3').colorPicker({lang:0});
+});
+</script>
+ </HEAD>
+
+ <body>
+	<!-- 选择器 -->
+
+			<input readonly="readonly" name="logDate" id="logDate" value="#000000" class="lv_color" />
+			<input readonly="readonly" name="logDate1" id="logDate1" class="lv_color" />
+			<input readonly="readonly" name="logDate2" id="logDate2" class="lv_color" />
+			<input readonly="readonly" name="logDate3" id="logDate3" class="lv_color" />
+	<br/>
+
+</body>
+
+</HTML>
