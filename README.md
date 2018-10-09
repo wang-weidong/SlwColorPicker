@@ -2,7 +2,7 @@
 
 Javascript ColorPicker
 
-[Demo](https://wang-weidong.github.io/SlwColorPicker/demo/color.html "Demo")
+[Demo](https://wang-weidong.github.io/SlwColorPicker/v1.0/demo/color.html "Demo")
 
 ## Browser Support ##
 - Internet Explorer: 6, 7, 8, 9, 10, 11
