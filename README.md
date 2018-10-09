@@ -1,8 +1,8 @@
-# ColorPicker/Slw.color
+# ColorPicker/(Super Lightweight ColorPicker)
 
-Javascript ColorPicker/slw.color
+Javascript ColorPicker
 
-[Demo](http://htmlpreview.github.io/?https://github.com/wang-weidong/SlwColorPicker/blob/master/v1.0/demo/color.html "Demo")
+[Demo](https://wang-weidong.github.io/SlwColorPicker/demo/color.html "Demo")
 
 ## Browser Support ##
 - Internet Explorer: 6, 7, 8, 9, 10, 11
